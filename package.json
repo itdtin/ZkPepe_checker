@@ -1,0 +1,12 @@
+{
+  "name": "ZkPepe_checker",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:itdtin/ZkPepe_checker.git",
+  "author": "Roman <45974112+itdtin@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.2"
+  }
+}
